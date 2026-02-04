@@ -18,6 +18,7 @@
 - **CMS**: Sanity
 - **Caching**: Redis
 - **Deployment**: Vercel
+- **Email**: Resend
 
 ---
 
@@ -27,6 +28,6 @@
 
 ## Project Timeline
 
-| Date     | Description                            |
-| -------- | -------------------------------------- |
-| 2/4/2026 | - Project Research<br> - Project Setup |
+| Date     | Description                                            |
+| -------- | ------------------------------------------------------ |
+| 2/4/2026 | - Project Research<br> - Project Setup<br> - CMS Setup |
