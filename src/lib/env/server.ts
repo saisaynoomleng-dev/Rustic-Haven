@@ -8,6 +8,7 @@ export const env = createEnv({
     SANITY_WRITE_TOKEN: z.string(),
     SANITY_STUDIO_PROJECT_ID: z.string(),
     SANITY_STUDIO_DATASET: z.string(),
+    DATABASE_URL: z.string(),
   },
   experimental__runtimeEnv: process.env,
 });
